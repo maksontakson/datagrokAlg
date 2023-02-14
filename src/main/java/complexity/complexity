@@ -1,0 +1,6 @@
+max(double[] values) //O(n)
+sort(double[] values) //O(n log(n))
+avg(double[] values) //O(n)
+median(double[] values) //O(n log(n))
+stdev(double[] values) //O(n)
+uniqueValuesCount(byte[] values) //O(n)
